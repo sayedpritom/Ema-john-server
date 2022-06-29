@@ -5,9 +5,10 @@
 2. API to get the number of how many products currently are in the database.
 3. API to get certain products by their Ids 
 
-Client-side code: 
 
-## Feature & functionalities implemented on this website:
+## Client-side code: https://github.com/sayedpritom999/Ema-john-client
+
+## Feature & functionalities implemented on client-side:
 1. Users can login/signup through email and password
 2. Users can add multiple items in cart
 3. Clicking on "Review order" or "Orders" will take user to the order page. Where they can remove items.
