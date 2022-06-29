@@ -8,7 +8,7 @@
 
 ## Client-side code: https://github.com/sayedpritom999/Ema-john-client
 
-## Feature & functionalities implemented on client-side:
+## Feature & functionalities implemented on the client-side:
 1. Users can login/signup through email and password
 2. Users can add multiple items in cart
 3. Clicking on "Review order" or "Orders" will take user to the order page. Where they can remove items.
