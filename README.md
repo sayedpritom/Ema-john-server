@@ -6,7 +6,7 @@
 3. API to get certain products by their Ids 
 
 
-## Client-side code: https://github.com/sayedpritom999/Ema-john-client
+## Client-side code: https://github.com/sayedpritom/Ema-john-client
 
 ## Feature & functionalities implemented on the client-side:
 1. Users can login/signup through email and password
